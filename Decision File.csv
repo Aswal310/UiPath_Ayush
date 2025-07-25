@@ -1,0 +1,11 @@
+﻿Client ID,Amount to Borrow,Financial Dependents,Employment Status,Income Before Tax,Residential Status
+1,2000,0-1,Employed,43000,Other
+2,4000,2+,Employed,2000,Homeowner
+3,6000,0-1,Unemployed,39000,Other
+4,8000,2+,Employed,20000,Homeowner
+5,10000,0-1,Unemployed,35000,Other
+6,12000,0-1,Employed,27000,Homeowner
+7,14000,2+,Unemployed,40000,Other
+8,16000,2+,Employed,29000,Other
+9,18000,0-1,Employed,14000,Other
+10,20000,2+,Unemployed,46000,Homeowner
